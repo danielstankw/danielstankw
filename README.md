@@ -15,3 +15,23 @@ I have experiance in operating an UR5e robot. During my studies I created a simu
  <a href="https://www.linkedin.com/in/danielstankowski/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
+### 🥅 Goals:
+
+- [ ] Studies
+  - [ ] Implement working learning in RoboSuite
+  - [ ] Implement PPO from scratch
+  - [ ] ML in Healthcare (course)
+- [ ] Finish ML book
+  - [ ] ...
+- [ ] Tensorflow Specialization
+  - [ ] Intro
+  - [ ] CNN
+  - [ ] NLP
+  - [ ] Sequences
+- [ ] DL Specialization
+  - [x] ML projects
+  - [x] NN and DL
+  - [x] Optimization
+  - [ ] CNN
+  - [ ] Sequence Models
+- [ ] Tensorlfow Certificate 
