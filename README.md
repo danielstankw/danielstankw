@@ -35,3 +35,5 @@ I have experiance in operating an UR5e robot. During my studies I created a simu
   - [ ] CNN
   - [ ] Sequence Models
 - [ ] Tensorlfow Certificate 
+- [ ] SQL
+- [ ] Git
