@@ -37,3 +37,5 @@ I have experiance in operating an UR5e robot. During my studies I created a simu
 - [ ] Tensorlfow Certificate 
 - [ ] SQL
 - [ ] Git
+  - [ ] [Part1](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
+  - [ ] [Part2](https://www.youtube.com/watch?v=Uszj_k0DGsg&ab_channel=freeCodeCamp.org)
