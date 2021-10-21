@@ -12,8 +12,11 @@ I have experiance in operating an UR5e robot. During my studies I created a simu
 
 ### ✉️ Find me on:
 <p align="left">
- <a href="https://www.linkedin.com/in/danielstankowski/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/danielstankowski/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+### 🗺️ Languages:
+<img src="https://lipis.github.io/flag-icon-css/flags/4x3/pl.svg" alt="JavaScript logo" width="50" height="50"/>  <img src="https://lipis.github.io/flag-icon-css/flags/4x3/um.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/il.svg" alt="JavaScript logo" width="50" height="50"/> 
 
 ### 🥅 Goals:
 
