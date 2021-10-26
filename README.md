@@ -16,7 +16,7 @@ I have experiance in operating an UR5e robot. During my studies I created a simu
 </p>
 
 ### 🗺️ Languages:
-<img src="https://lipis.github.io/flag-icon-css/flags/4x3/pl.svg" alt="JavaScript logo" width="50" height="50"/>  <img src="https://lipis.github.io/flag-icon-css/flags/4x3/um.svg" alt="JavaScript logo" width="50" height="50"/> <img src="https://lipis.github.io/flag-icon-css/flags/4x3/il.svg" alt="JavaScript logo" width="50" height="50"/> 
+Polish, English, Hebrew
 
 ### 🥅 Goals:
 
