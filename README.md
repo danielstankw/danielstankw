@@ -27,7 +27,7 @@ Polish, English, Hebrew
 - [ ] Finish ML book
   - [ ] ...
 - [ ] Tensorflow Specialization
-  - [ ] Intro
+  - [x] Intro
   - [ ] CNN
   - [ ] NLP
   - [ ] Sequences
