@@ -33,6 +33,11 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 <details open> 
   <summary><h3>👨‍💻 My Machine Learning Projects</h3></summary>
 
+  [ ] Anomaly Detection
+  [ ] Vision project
+  [ ] NLP Project
+  [ ] Kaggle/ Other? 
+
    <p align="left">
     <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
     <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
@@ -47,6 +52,11 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 
 <details open> 
   <summary><h3>🤖 My Robotics & Reinforcement Learning Work</h3></summary>
+
+  [ ] Main simulation
+  [ ] Robot RTDE
+  [ ] Rope Robotics
+  [ ] Youtube tutorials
 
    <p align="left">
     <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
