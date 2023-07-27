@@ -28,14 +28,11 @@ Hope to bring value to the world via AI-based solutions.
   <summary><h3>📘 My Machine Learning Projects</h3></summary>
 
    <p align="left">
-    <a href="https://github.com/danielstankw/Daniel_simulation.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
-    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
-    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
   </p>
 
 </details>
 
 
-https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false
           
           
