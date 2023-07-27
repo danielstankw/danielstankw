@@ -35,9 +35,27 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 
    <p align="left">
     <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+     <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
   </p>
-
 </details>
+
+#
+
+<details open> 
+  <summary><h3>🤖 My Robotics & Reinforcement Learning Work</h3></summary>
+
+   <p align="left">
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+  </p>
+</details>
+
+#
 
 <details closed> 
   <summary><h3>📞 Contact</h3></summary>
