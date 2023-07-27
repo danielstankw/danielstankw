@@ -1,9 +1,9 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1">
     <img src="https://github.com/danielstankw/danielstankw/blob/main/name_no_bg.png" alt="Jonah Lawrence" /></a>
 </p>
 
-<p align="center">
+<p align="left">
    <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A1B3F7&width=435&lines=Machine+Learning+%26+Robotics;Looking+for+learning+opportunities" /></a>
 </p>
