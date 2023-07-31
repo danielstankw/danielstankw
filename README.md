@@ -31,7 +31,7 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 #
 
 <details open> 
-  <summary><h3>👨‍💻 My Machine Learning Projects</h3></summary>
+  <summary><h3>👨‍💻 My Machine Learning Projects - (in progress of re-ordering)</h3></summary>
 
   [ ] Anomaly Detection
   [ ] Vision project
@@ -51,7 +51,7 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 #
 
 <details open> 
-  <summary><h3>🤖 My Robotics & Reinforcement Learning Work</h3></summary>
+  <summary><h3>🤖 My Robotics & Reinforcement Learning Work (in progress of re-ordering)</h3></summary>
 
   [ ] Main simulation
   [ ] Robot RTDE
