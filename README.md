@@ -25,26 +25,22 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 <img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Flask" width="80px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" />
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="AWS" width="90px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 
+       
 <br />
 
 #
 
 <details open> 
-  <summary><h3>👨‍💻 My Machine Learning Projects - (in progress of re-ordering)</h3></summary>
-
-  [ ] Anomaly Detection
-  [ ] Vision project
-  [ ] NLP Project
-  [ ] Kaggle/ Other? 
+  <summary><h3>👨‍💻 My Machine Learning Projects </h3></summary>
 
    <p align="left">
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-     <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Anomaly-Detection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Anomaly-Detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/LSTM-Pytorch"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=LSTM-Pytorch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Imbalanced-classifier"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Imbalanced-classifier&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
   </p>
 </details>
 
