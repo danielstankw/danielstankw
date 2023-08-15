@@ -47,17 +47,12 @@ If you would like to chat, please visit the `Contact` section below 🙂.
 #
 
 <details open> 
-  <summary><h3>🤖 My Robotics & Reinforcement Learning Work (in progress of re-ordering)</h3></summary>
-
-  [ ] Main simulation
-  [ ] Robot RTDE
-  [ ] Rope Robotics
-  [ ] Youtube tutorials
+  <summary><h3>🤖 My Robotics & Reinforcement Learning Work</h3></summary>
 
    <p align="left">
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
-    <a href="https://github.com/danielstankw/Daniel_simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Daniel_simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Reinforcement_Learning_Simulation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Reinforcement_Learning_Simulation&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/UR5e-robot-control"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=UR5e-robot-control&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Servoj_RTDE_UR5"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Servoj_RTDE_UR5&theme=react&bg_color=1F222E&title_color=6fdc6f&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
   </p>
 </details>
 
