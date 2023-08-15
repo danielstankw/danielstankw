@@ -2,7 +2,7 @@
 
 <p align="left">
    <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A1B3F7&width=435&lines=Machine+Learning+%26+Robotics;Looking+for+learning+opportunities" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=384DF9&width=435&lines=Machine+Learning+%26+Robotics;Looking+for+learning+opportunities" /></a>
 </p>
 
 **`Machine Learning\Robotics\Reinforcement Learning`**
