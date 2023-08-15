@@ -1,8 +1,4 @@
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://github.com/danielstankw/danielstankw/blob/main/name_no_bg.png" alt="Jonah Lawrence" /></a>
-</p>
+# Daniel Stankowski
 
 <p align="left">
    <a>
