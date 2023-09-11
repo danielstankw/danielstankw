@@ -30,6 +30,8 @@ If you would like to chat, please visit the `Contact` section below 🙂. </br>
 <img align="left" alt="AWS" width="90px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+**Others include**: MLflow, Grafana, Evidently
+
 <br />
 
 #
