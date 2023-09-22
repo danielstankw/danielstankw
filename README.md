@@ -8,12 +8,7 @@
 **`Machine Learning\Robotics\Reinforcement Learning`**
 
 Welcome to my GitHub page! </br>
-I am Daniel, originally from Poland currently living in Israel. Recently graduated with an M.Sc. degree from Technion where I worked on Robotics, Machine, and Reinforcement Learning-related problems. </br>
-I am passionate about utilizing ML tools for solving real-world problems, and always seeking new challenges and learning opportunities. </br>
-Scroll down to see **some** of the projects I worked on. </br>Currently developing my skills in the field of MLOps, the relevant repo with an end-to-end project will be available soon. </br>
-If you would like to chat, please visit the `Contact` section below 🙂. </br>
-
-**Note**: *It is recommended to display this page with Dark Github Theme*
+If you are interested to see **some** of the projects I worked on, feel free to check them out in sections below.
 
 #
 
