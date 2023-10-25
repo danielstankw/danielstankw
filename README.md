@@ -30,18 +30,10 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 <br />
 
 # 
-
-<details close> 
-  <summary><h3>📕 My Medium Articles </h3></summary>
-
-   <p align="left">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/2" alt="Recent Article 2"> 
-
-  </p>
-</details>
-
+### 📕 My Medium Articles
+[Running Airflow with Docker-Compose 2023](https://medium.com/@dast04/running-airflow-with-docker-compose-2023-for-machine-learning-a78eeadc00cd)     
+[Git Version Control - How to Get Started?](https://medium.com/@dast04/git-version-control-how-to-get-started-9493dcbd3360)  
+[Anaconda Intuition and Practice](https://medium.com/@dast04/mastering-anaconda-intuition-and-practice-for-beginners-6db55994060c)
 
 
 #
