@@ -45,6 +45,8 @@ If you are interested to see **some** of the projects I worked on, feel free to 
     <a href="https://github.com/danielstankw/Anomaly-Detection"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Anomaly-Detection&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
     <a href="https://github.com/danielstankw/LSTM-Pytorch"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=LSTM-Pytorch&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
     <a href="https://github.com/danielstankw/Imbalanced-classifier"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Imbalanced-classifier&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/Xray-image-classifier"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Xray-image-classifier&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/messy-car-model"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=messy-car-model&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
   </p>
 </details>
 
