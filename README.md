@@ -29,6 +29,21 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 
 <br />
 
+# 
+
+<details close> 
+  <summary><h3>📕 My Medium Articles </h3></summary>
+
+   <p align="left">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dast04/2" alt="Recent Article 2"> 
+
+  </p>
+</details>
+
+
+
 #
 
 <details open> 
