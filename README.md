@@ -1,15 +1,11 @@
-# Daniel Stankowski
-
-<p align="left">
-   <a>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=384DF9&width=435&lines=Machine+Learning+%26+Robotics;Looking+for+learning+opportunities" /></a>
-</p>
-
-**`Machine Learning\Robotics\Reinforcement Learning`**
+<h1 align="center">Hi 👋, I'm Daniel Stankowski</h1>
+<h3 align="center">An aspiring Data Scientist/ Machine Learning Engineer</h3>
+<p align="center"> <a href="https://www.linkedin.com/in/danielstankowski/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="daniel"  </p>
 
 Welcome to my GitHub page! </br>
 If you are interested to see **some** of the projects I worked on, feel free to check them out in sections below.
 Currently working on a full MLOPs project which will be available on my GitHub soon.
+
 
 #
 
@@ -17,7 +13,6 @@ Currently working on a full MLOPs project which will be available on my GitHub s
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="Matlab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="SQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -32,7 +27,8 @@ Currently working on a full MLOPs project which will be available on my GitHub s
 ### 📕 My Medium Articles
 [Running Airflow with Docker-Compose 2023](https://medium.com/@dast04/running-airflow-with-docker-compose-2023-for-machine-learning-a78eeadc00cd)     
 [Git Version Control - How to Get Started?](https://medium.com/@dast04/git-version-control-how-to-get-started-9493dcbd3360)  
-[Anaconda Intuition and Practice](https://medium.com/@dast04/mastering-anaconda-intuition-and-practice-for-beginners-6db55994060c)
+[Anaconda Intuition and Practice](https://medium.com/@dast04/mastering-anaconda-intuition-and-practice-for-beginners-6db55994060c)  
+[Kubernetes — Introduction & Architecture- part 1](https://medium.com/@dast04/kubernetes-introduction-architecture-%EF%B8%8F-part-1-33fbd2ab02d4)
 
 
 #
@@ -76,6 +72,3 @@ The best way to contact me is via connecting on LinkedIn.
 </details>
 
 
-
-          
-          
