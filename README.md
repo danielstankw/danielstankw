@@ -4,7 +4,6 @@
 
 Welcome to my GitHub page! </br>
 If you are interested to see **some** of the projects I worked on, feel free to check them out in sections below.
-Currently working on a full MLOPs project which will be available on my GitHub soon.
 
 
 #
