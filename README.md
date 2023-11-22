@@ -15,7 +15,7 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-%20%23343deb?style=for-the-badge&logo=Docker&logoColor=white&color=%23343deb)  
+![Static Badge](https://img.shields.io/badge/Docker-4059f7?style=for-the-badge&logo=Docker&logoColor=4059f7&color=c7cced)  
 ![Static Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-%20black?style=for-the-badge&logo=Kubernetes&logoColor=white&color=%23771bb5)
