@@ -9,17 +9,19 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 
 ### 🛠️ Languages and Tools
 
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="Matlab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Flask" width="80px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" />
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="AWS" width="90px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
-<img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</br>
-<br />
+
+![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pytorch%20-%20orange?style=for-the-badge&logo=pytorch&color=white)
+![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%20%23343deb?style=for-the-badge&logo=Docker&logoColor=white&color=%23343deb)  
+![Static Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Kubernetes-%20black?style=for-the-badge&logo=Kubernetes&logoColor=white&color=%23771bb5)
+![Static Badge](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mlflow-black?style=for-the-badge&logo=Mlflow&logoColor=27c3e6&color=2e3a87)
+
 
 # 
 ### 📕 My Medium Articles
