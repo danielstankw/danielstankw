@@ -25,6 +25,7 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 
 # 
 ### 📕 My Medium Articles
+[Writing Custom Prometheus Exporters (in Python) — Kubernetes](https://medium.com/@dast04/writing-custom-prometheus-exporters-in-python-kubernetes-73626b66d78c)  
 [Running Airflow with Docker-Compose 2023](https://medium.com/@dast04/running-airflow-with-docker-compose-2023-for-machine-learning-a78eeadc00cd)     
 [Git Version Control - How to Get Started?](https://medium.com/@dast04/git-version-control-how-to-get-started-9493dcbd3360)  
 [Anaconda Intuition and Practice](https://medium.com/@dast04/mastering-anaconda-intuition-and-practice-for-beginners-6db55994060c)  
@@ -42,6 +43,7 @@ If you are interested to see **some** of the projects I worked on, feel free to 
     <a href="https://github.com/danielstankw/Imbalanced-classifier"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Imbalanced-classifier&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
     <a href="https://github.com/danielstankw/VGG16_Xray_Image_Classifier"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=VGG16_Xray_Image_Classifier&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
     <a href="https://github.com/danielstankw/Car_Classification_and_Regression"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Car_Classification_and_Regression&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
+    <a href="https://github.com/danielstankw/WordWatchSummary"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=danielstankw&repo=Car_Classification_and_Regression&theme=react&bg_color=1F222E&title_color=ffff80&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Daniel_sim"></a>
   </p>
 </details>
 
