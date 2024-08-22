@@ -9,18 +9,22 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 
 ### 🛠️ Languages and Tools
 
+<div align="center">
 
-![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Pytorch%20-%20orange?style=for-the-badge&logo=pytorch&color=white)
-![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-4059f7?style=for-the-badge&logo=Docker&logoColor=4059f7&color=c7cced)  
-![Static Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Kubernetes-%20black?style=for-the-badge&logo=Kubernetes&logoColor=white&color=%23771bb5)
-![Static Badge](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Mlflow-black?style=for-the-badge&logo=Mlflow&logoColor=27c3e6&color=2e3a87)
+| Category  | Tools |
+| ------------- | ------------- |
+| Programming Languages | Python  |
+| Cloud Providers | AWS  |
+| Operating Systems & Shells | Linux, Bash  |
+| MLOps & Model Management  | MLflow, Airflow  |
+| Version Control & CI/CD | Git, BitBucket, Jenkins, ArgoCD  |
+| Monitoring & Logging | Prometheus, Grafana, Loki, Thanos  |
+| Containerization & Orchestration  | Docker, Kubernetes, EKS, Helm, Karpenter  |
+| Machine Learning/ LLM  | TensorFlow, Pytorch, Scikit-learn, Langchain, Llama Index, vLLM, Ollama  |
+
+</div>
+
+
 
 
 # 
