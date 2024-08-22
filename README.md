@@ -17,13 +17,24 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 | Cloud Providers | AWS  |
 | Operating Systems & Shells | Linux, Bash  |
 | MLOps & Model Management  | MLflow, Airflow  |
-| Version Control & CI/CD | Git, BitBucket, Jenkins, ArgoCD  |
+| Version Control & CI/CD | Git, BitBucket, Jenkins  |
 | Monitoring & Logging | Prometheus, Grafana, Loki, Thanos  |
 | Containerization & Orchestration  | Docker, Kubernetes, EKS, Helm, Karpenter  |
 | Machine Learning/ LLM  | TensorFlow, Pytorch, Scikit-learn, Langchain, Llama Index, vLLM, Ollama  |
 
 </div>
 
+#
+
+### 🎯 Goals for this year  
+
+**Learning and Implementation Goals**
+- [ ] ArgoCD
+- [ ] Terraform + Karpenter
+- [ ] Sonarqube
+- [ ] AWS (SAA-C03)
+- [ ] CKA
+- [ ] Terraform Associate 
 
 
 
