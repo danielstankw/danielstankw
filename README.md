@@ -25,6 +25,8 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 
 # 
 ### 📕 My Medium Articles
+[Deployment — Monitoring with Prometheus & Thanos [Part 2/2]](https://medium.com/@dast04/full-installation-monitoring-with-prometheus-thanos-part-2-2-fe98fcdbe448)  
+[Theory — Monitoring with Prometheus & Thanos [Part 1/2]](https://medium.com/@dast04/theory-monitoring-with-prometheus-thanos-part-1-2-8bc500a9c6a8)  
 [Writing Custom Prometheus Exporters (in Python) — Kubernetes](https://medium.com/@dast04/writing-custom-prometheus-exporters-in-python-kubernetes-73626b66d78c)  
 [Running Airflow with Docker-Compose 2023](https://medium.com/@dast04/running-airflow-with-docker-compose-2023-for-machine-learning-a78eeadc00cd)     
 [Git Version Control - How to Get Started?](https://medium.com/@dast04/git-version-control-how-to-get-started-9493dcbd3360)  
