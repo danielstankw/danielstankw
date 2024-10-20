@@ -24,16 +24,6 @@ If you are interested to see **some** of the projects I worked on, feel free to 
 
 </div>
 
-#
-
-### 🎯 Goals for this year  
-
-**Learning and Implementation Goals**
-- [ ] Terraform + Karpenter
-- [ ] AWS (SAA-C03)
-- [ ] CKA
-- [ ] Terraform Associate 
-
 
 
 # 
